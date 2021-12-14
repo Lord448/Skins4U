@@ -1,0 +1,21 @@
+---Notas del parche---
+
+---Funciones añadidas---
+--------------------------------------
+Se añadió un sistema de tickets de bugs--
+--------------------------------------
+
+--------------------------------------
+
+--------------------------------------
+
+--------------------------------------
+
+--Bugs solucionados--
+Se solucionó el bug que mostraba los pedidos ya eliminados en la sección de lobby general--
+--------------------------------------
+Se solucionó el bug de letras rojas en pagos--
+
+
+--Cambios técnicos y de Backend--
+Reestructuración general del código
